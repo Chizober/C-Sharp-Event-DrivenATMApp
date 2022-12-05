@@ -122,12 +122,12 @@ namespace Atm
                 Console.WriteLine($"Current balance: {currentUser.Balance}");
             }
             List<CardHolder> cardHolders = new List<CardHolder>();
-            cardHolders.Add(new CardHolder("1234", 1111, "Chizoba", "Egbujie", 100.20));
-            cardHolders.Add(new CardHolder("5678", 2222, "Ifunanya", "Egbujie", 200.30));
-            cardHolders.Add(new CardHolder("9101", 3333, "Odinaka", "Egbujie", 300.40));
-            cardHolders.Add(new CardHolder("1121", 4444, "Chikwado", "Egbujie", 400.50));
-            cardHolders.Add(new CardHolder("3141", 5555, "Uche", "Egbujie", 500.60));
-            cardHolders.Add(new CardHolder("5161", 7777, "Amuche", "Egbujie", 600.70));
+            cardHolders.Add(new CardHolder("1234", 1111, "Chizoba", "Egbujie", 1000000.20));
+            cardHolders.Add(new CardHolder("5678", 2222, "Ifunanya", "Egbujie", 2000000.30));
+            cardHolders.Add(new CardHolder("9101", 3333, "Odinaka", "Egbujie", 3000000.40));
+            cardHolders.Add(new CardHolder("1121", 4444, "Chikwado", "Egbujie", 4000000.50));
+            cardHolders.Add(new CardHolder("3141", 5555, "Uche", "Egbujie", 5000000.60));
+            cardHolders.Add(new CardHolder("5161", 7777, "Amuche", "Egbujie", 6000000.70));
             Console.Clear();
             Console.Title = "My Multilingual ATM APP";
             Console.ForegroundColor = ConsoleColor.White;
