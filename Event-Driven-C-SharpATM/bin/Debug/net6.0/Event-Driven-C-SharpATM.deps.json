@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Event-Driven-C-SharpATM/1.0.0": {
+        "runtime": {
+          "Event-Driven-C-SharpATM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Event-Driven-C-SharpATM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

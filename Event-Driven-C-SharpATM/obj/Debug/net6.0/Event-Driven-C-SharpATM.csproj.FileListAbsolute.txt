@@ -1,0 +1,15 @@
+C:\Users\Kaiser\Desktop\Event-Driven-C-SharpATM\obj\Debug\net6.0\Event-Driven-C-SharpATM.csproj.AssemblyReference.cache
+C:\Users\Kaiser\Desktop\Event-Driven-C-SharpATM\obj\Debug\net6.0\Event-Driven-C-SharpATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaiser\Desktop\Event-Driven-C-SharpATM\obj\Debug\net6.0\Event-Driven-C-SharpATM.AssemblyInfoInputs.cache
+C:\Users\Kaiser\Desktop\Event-Driven-C-SharpATM\obj\Debug\net6.0\Event-Driven-C-SharpATM.AssemblyInfo.cs
+C:\Users\Kaiser\Desktop\Event-Driven-C-SharpATM\obj\Debug\net6.0\Event-Driven-C-SharpATM.csproj.CoreCompileInputs.cache
+C:\Users\Kaiser\Desktop\Event-Driven-C-SharpATM\bin\Debug\net6.0\Event-Driven-C-SharpATM.exe
+C:\Users\Kaiser\Desktop\Event-Driven-C-SharpATM\bin\Debug\net6.0\Event-Driven-C-SharpATM.deps.json
+C:\Users\Kaiser\Desktop\Event-Driven-C-SharpATM\bin\Debug\net6.0\Event-Driven-C-SharpATM.runtimeconfig.json
+C:\Users\Kaiser\Desktop\Event-Driven-C-SharpATM\bin\Debug\net6.0\Event-Driven-C-SharpATM.dll
+C:\Users\Kaiser\Desktop\Event-Driven-C-SharpATM\bin\Debug\net6.0\Event-Driven-C-SharpATM.pdb
+C:\Users\Kaiser\Desktop\Event-Driven-C-SharpATM\obj\Debug\net6.0\Event-Driven-C-SharpATM.dll
+C:\Users\Kaiser\Desktop\Event-Driven-C-SharpATM\obj\Debug\net6.0\refint\Event-Driven-C-SharpATM.dll
+C:\Users\Kaiser\Desktop\Event-Driven-C-SharpATM\obj\Debug\net6.0\Event-Driven-C-SharpATM.pdb
+C:\Users\Kaiser\Desktop\Event-Driven-C-SharpATM\obj\Debug\net6.0\Event-Driven-C-SharpATM.genruntimeconfig.cache
+C:\Users\Kaiser\Desktop\Event-Driven-C-SharpATM\obj\Debug\net6.0\ref\Event-Driven-C-SharpATM.dll
