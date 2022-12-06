@@ -43,7 +43,7 @@ namespace Atm
         {
            SetNum?.Invoke(message);
         }
-        protected virtual  void OnSetNum(int message)
+        protected virtual  void OnSetPin(int message)
         {
            SetPin?.Invoke(message);
         }
